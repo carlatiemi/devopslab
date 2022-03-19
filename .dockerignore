@@ -1,0 +1,11 @@
+LICENSE
+README.md
+__pycache__
+test.py
+Procfile
+README.md.save
+sonar-project.properties
+'udo systemctl is-enabled docker'
+.git
+.github
+.gitignore
